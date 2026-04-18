@@ -143,4 +143,3 @@ MIT License — see [LICENSE](LICENSE). Free to use, modify, and distribute.
 - **PyQt6**: Riverbank Computing — Qt bindings for Python
 - **llama.cpp**: [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) — pure C/C++ LLM inference
 - **Ollama**: [ollama/ollama](https://github.com/ollama/ollama) — local LLM server
-- **Hermes**: [farzaa/hermes](https://github.com/farzaa/hermes) — the AI agent framework used as a guiding agent
